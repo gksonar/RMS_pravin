@@ -1,7 +1,7 @@
 <?php
 $con = mysqli_connect("localhost","root","","rms");
 
-
+// Host name, User name, pass, dbname 
 if (mysqli_connect_errno())
 
   {
